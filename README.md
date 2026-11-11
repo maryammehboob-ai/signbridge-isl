@@ -358,19 +358,17 @@ Earlier independent tests of the same MobileNetV2 model gave 14.81 % (95 % inter
 
 ## 🖼️ Screenshots
 
-> 📌 *Add your screenshots to a `docs/screenshots/` folder and update the paths below.*
+Screenshots of the deployed app (Streamlit Community Cloud):
 
-| Home | Live Sign-to-Text |
-|---|---|
-| ![Home](docs/screenshots/home.png) | ![Live Sign-to-Text](docs/screenshots/live_sign_to_text.png) |
+### 🔤 Text-to-Sign
+![Text-to-Sign page](docs/screenshots/text_to_sign.png)
 
-| Text-to-Sign | Speech-to-Text |
-|---|---|
-| ![Text-to-Sign](docs/screenshots/text_to_sign.png) | ![Speech-to-Text](docs/screenshots/speech_to_text.png) |
+### 📊 Model Performance
+*The leakage chart from the Model Performance page: the further a curve is to the right, the more new the data is compared with the training data. The curve of the fresh test recording (`fresh`) is the farthest from the training data.*
 
-| Model Performance |
-|---|
-| ![Model Performance](docs/screenshots/model_performance.png) |
+![Model Performance page](docs/screenshots/model_performance.png)
+
+> 📌 *Screenshots of the Home, Live Sign-to-Text and Speech-to-Text pages can be added to `docs/screenshots/` and linked here.*
 
 ---
 
