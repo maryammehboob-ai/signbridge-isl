@@ -402,7 +402,12 @@ Screenshots of the deployed app (Streamlit Community Cloud):
 
 **Author:** Maryam — GitHub: [@maryammehboob-ai](https://github.com/maryammehboob-ai)
 
-*(Add your college, department and project guide here.)*
+| | |
+|---|---|
+| 🏫 **College / University** | Jamia Hamdard |
+| 👩‍🏫 **Project Mentor / Guide** | Dr. Richa Gupta |
+
+*(Department and course can be added here.)*
 
 **Acknowledgements**
 - **ISLAN** dataset — Mendeley Data, DOI [10.17632/rc349j45m5.1](https://doi.org/10.17632/rc349j45m5.1).
