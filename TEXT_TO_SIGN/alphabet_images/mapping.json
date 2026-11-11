@@ -1,0 +1,247 @@
+{
+  "1": {
+    "file": "1.jpg",
+    "source": "DATA\\PROCESSED\\train\\1\\861.jpg",
+    "confidence": 0.9996,
+    "verified_as": "1",
+    "verified_confidence": 0.9996
+  },
+  "2": {
+    "file": "2.jpg",
+    "source": "DATA\\PROCESSED\\train\\2\\226.jpg",
+    "confidence": 0.9948,
+    "verified_as": "2",
+    "verified_confidence": 0.9948
+  },
+  "3": {
+    "file": "3.jpg",
+    "source": "DATA\\PROCESSED\\train\\3\\437.jpg",
+    "confidence": 0.9939,
+    "verified_as": "3",
+    "verified_confidence": 0.9939
+  },
+  "4": {
+    "file": "4.jpg",
+    "source": "DATA\\PROCESSED\\train\\4\\463.jpg",
+    "confidence": 0.9976,
+    "verified_as": "4",
+    "verified_confidence": 0.9976
+  },
+  "5": {
+    "file": "5.jpg",
+    "source": "DATA\\PROCESSED\\train\\5\\295.jpg",
+    "confidence": 0.9999,
+    "verified_as": "5",
+    "verified_confidence": 0.9999
+  },
+  "6": {
+    "file": "6.jpg",
+    "source": "DATA\\PROCESSED\\train\\6\\215.jpg",
+    "confidence": 0.9954,
+    "verified_as": "6",
+    "verified_confidence": 0.9954
+  },
+  "7": {
+    "file": "7.jpg",
+    "source": "DATA\\PROCESSED\\train\\7\\313.jpg",
+    "confidence": 0.9998,
+    "verified_as": "7",
+    "verified_confidence": 0.9998
+  },
+  "8": {
+    "file": "8.jpg",
+    "source": "DATA\\PROCESSED\\train\\8\\126.jpg",
+    "confidence": 0.9995,
+    "verified_as": "8",
+    "verified_confidence": 0.9995
+  },
+  "9": {
+    "file": "9.jpg",
+    "source": "DATA\\PROCESSED\\train\\9\\1172.jpg",
+    "confidence": 0.9993,
+    "verified_as": "9",
+    "verified_confidence": 0.9993
+  },
+  "A": {
+    "file": "A.jpg",
+    "source": "DATA\\PROCESSED\\train\\A\\1131.jpg",
+    "confidence": 0.9998,
+    "verified_as": "A",
+    "verified_confidence": 0.9998
+  },
+  "B": {
+    "file": "B.jpg",
+    "source": "DATA\\PROCESSED\\train\\B\\811.jpg",
+    "confidence": 0.9998,
+    "verified_as": "B",
+    "verified_confidence": 0.9998
+  },
+  "C": {
+    "file": "C.jpg",
+    "source": "DATA\\PROCESSED\\train\\C\\296.jpg",
+    "confidence": 0.9985,
+    "verified_as": "C",
+    "verified_confidence": 0.9985
+  },
+  "D": {
+    "file": "D.jpg",
+    "source": "DATA\\PROCESSED\\train\\D\\30.jpg",
+    "confidence": 0.9929,
+    "verified_as": "D",
+    "verified_confidence": 0.9929
+  },
+  "E": {
+    "file": "E.jpg",
+    "source": "DATA\\PROCESSED\\train\\E\\314.jpg",
+    "confidence": 0.9941,
+    "verified_as": "E",
+    "verified_confidence": 0.9941
+  },
+  "F": {
+    "file": "F.jpg",
+    "source": "DATA\\PROCESSED\\train\\F\\477.jpg",
+    "confidence": 0.9994,
+    "verified_as": "F",
+    "verified_confidence": 0.9994
+  },
+  "G": {
+    "file": "G.jpg",
+    "source": "DATA\\PROCESSED\\train\\G\\62.jpg",
+    "confidence": 0.9997,
+    "verified_as": "G",
+    "verified_confidence": 0.9997
+  },
+  "H": {
+    "file": "H.jpg",
+    "source": "DATA\\PROCESSED\\train\\H\\555.jpg",
+    "confidence": 0.9925,
+    "verified_as": "H",
+    "verified_confidence": 0.9925
+  },
+  "I": {
+    "file": "I.jpg",
+    "source": "DATA\\PROCESSED\\train\\I\\442.jpg",
+    "confidence": 0.9907,
+    "verified_as": "I",
+    "verified_confidence": 0.9907
+  },
+  "J": {
+    "file": "J.jpg",
+    "source": "DATA\\PROCESSED\\train\\J\\336.jpg",
+    "confidence": 0.9988,
+    "verified_as": "J",
+    "verified_confidence": 0.9988
+  },
+  "K": {
+    "file": "K.jpg",
+    "source": "DATA\\PROCESSED\\train\\K\\780.jpg",
+    "confidence": 0.9967,
+    "verified_as": "K",
+    "verified_confidence": 0.9967
+  },
+  "L": {
+    "file": "L.jpg",
+    "source": "DATA\\PROCESSED\\train\\L\\657.jpg",
+    "confidence": 0.9984,
+    "verified_as": "L",
+    "verified_confidence": 0.9984
+  },
+  "M": {
+    "file": "M.jpg",
+    "source": "DATA\\PROCESSED\\train\\M\\766.jpg",
+    "confidence": 0.9989,
+    "verified_as": "M",
+    "verified_confidence": 0.9989
+  },
+  "N": {
+    "file": "N.jpg",
+    "source": "DATA\\PROCESSED\\train\\N\\527.jpg",
+    "confidence": 0.9983,
+    "verified_as": "N",
+    "verified_confidence": 0.9983
+  },
+  "O": {
+    "file": "O.jpg",
+    "source": "DATA\\PROCESSED\\train\\O\\881.jpg",
+    "confidence": 0.9947,
+    "verified_as": "O",
+    "verified_confidence": 0.9947
+  },
+  "P": {
+    "file": "P.jpg",
+    "source": "DATA\\PROCESSED\\train\\P\\500.jpg",
+    "confidence": 0.9987,
+    "verified_as": "P",
+    "verified_confidence": 0.9987
+  },
+  "Q": {
+    "file": "Q.jpg",
+    "source": "DATA\\PROCESSED\\train\\Q\\320.jpg",
+    "confidence": 0.9987,
+    "verified_as": "Q",
+    "verified_confidence": 0.9987
+  },
+  "R": {
+    "file": "R.jpg",
+    "source": "DATA\\PROCESSED\\train\\R\\190.jpg",
+    "confidence": 0.9997,
+    "verified_as": "R",
+    "verified_confidence": 0.9997
+  },
+  "S": {
+    "file": "S.jpg",
+    "source": "DATA\\PROCESSED\\train\\S\\1042.jpg",
+    "confidence": 0.9993,
+    "verified_as": "S",
+    "verified_confidence": 0.9993
+  },
+  "T": {
+    "file": "T.jpg",
+    "source": "DATA\\PROCESSED\\train\\T\\34.jpg",
+    "confidence": 0.9992,
+    "verified_as": "T",
+    "verified_confidence": 0.9992
+  },
+  "U": {
+    "file": "U.jpg",
+    "source": "DATA\\PROCESSED\\train\\U\\1051.jpg",
+    "confidence": 0.9991,
+    "verified_as": "U",
+    "verified_confidence": 0.9991
+  },
+  "V": {
+    "file": "V.jpg",
+    "source": "DATA\\PROCESSED\\train\\V\\965.jpg",
+    "confidence": 0.9996,
+    "verified_as": "V",
+    "verified_confidence": 0.9996
+  },
+  "W": {
+    "file": "W.jpg",
+    "source": "DATA\\PROCESSED\\train\\W\\841.jpg",
+    "confidence": 1.0,
+    "verified_as": "W",
+    "verified_confidence": 1.0
+  },
+  "X": {
+    "file": "X.jpg",
+    "source": "DATA\\PROCESSED\\train\\X\\975.jpg",
+    "confidence": 0.997,
+    "verified_as": "X",
+    "verified_confidence": 0.997
+  },
+  "Y": {
+    "file": "Y.jpg",
+    "source": "DATA\\PROCESSED\\train\\Y\\849.jpg",
+    "confidence": 0.9988,
+    "verified_as": "Y",
+    "verified_confidence": 0.9988
+  },
+  "Z": {
+    "file": "Z.jpg",
+    "source": "DATA\\PROCESSED\\train\\Z\\90.jpg",
+    "confidence": 0.9968,
+    "verified_as": "Z",
+    "verified_confidence": 0.9968
+  }
+}

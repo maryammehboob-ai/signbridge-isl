@@ -1,0 +1,7 @@
+# Look of the app (colours only). Streamlit reads this file when it is started from the project folder.
+# The accent colour is deliberately left at Streamlit's default: the stylesheet (APP/ui/style.css) recolours it.
+[theme]
+base = "dark"
+backgroundColor = "#070d18"
+secondaryBackgroundColor = "#101b2e"
+textColor = "#e8eef8"

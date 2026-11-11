@@ -1,0 +1,13 @@
+# SignBridge - ISL Studio: packages for Streamlit Community Cloud (choose Python 3.12 in Advanced settings).
+# Versions are the ones tested with the models (TensorFlow 2.19, MediaPipe 0.10.21, numpy 1.26).
+streamlit==1.60.0
+starlette==0.52.1            # starlette 1.x breaks Streamlit media serving (measured: HTTP 500)
+streamlit-webrtc==0.79.1     # live camera: the visitor's browser streams video to the app (needs HTTPS)
+tensorflow==2.19.0
+numpy==1.26.4
+protobuf==4.25.9
+mediapipe==0.10.21
+opencv-contrib-python==4.11.0.86   # the build MediaPipe depends on (system library libgl1 is in packages.txt)
+SpeechRecognition==3.17.0
+pyspellchecker==0.9.1
+pillow

@@ -1,0 +1,6 @@
+.venv_deploy/
+__pycache__/
+*.pyc
+APP/saved_text.txt
+.streamlit/secrets.toml
+pip_install.log
