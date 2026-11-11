@@ -41,11 +41,11 @@ Create a free account at a TURN provider, then paste the values into App setting
 `.streamlit/secrets.toml.example`. The app reads them automatically. Never put them in the repository.
 
 ## 4. First checks after deploy
-Open the URL on a laptop and on a phone: Home loads, Text-to-Sign works, Speech-to-Text (allow the microphone), Model Performance shows 79.1%,
+Open the URL on a laptop and on a phone: Home loads, Text-to-Sign works, Speech-to-Text (allow the microphone) and Read aloud, Model Performance shows 79.1%,
 Live Sign-to-Text: press START, allow the camera, show a sign, check the prediction, press Add Letter.
 
 ## Known limits
-- Reading aloud (text-to-speech) is not available online (it used Windows voices).
+- Reading aloud online uses the visitor's own browser voice (Web Speech API), so voices differ by device; some mobile browsers need a tap on Play.
 - Free tier: limited CPU/memory. At most 3 people can use the live camera at once; others see a "server busy" notice.
 - The app sleeps after a period without visitors; the first visit afterwards is slow (models reload).
 - Live video needs HTTPS (provided) and a network that allows WebRTC; without a TURN relay a few networks will not connect.

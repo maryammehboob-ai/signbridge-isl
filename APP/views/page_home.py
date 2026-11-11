@@ -55,6 +55,6 @@ with st.expander("Good to know"):
         "- **Speech-to-Text** sends your recording to Google's speech service, so it needs internet. "
         "The live recognition does not use Google.\n"
         "- **Accuracy:** the live page uses your hand-point model. Signs that need two hands work best with both hands fully in view.\n"
-        "- Live camera pictures are analysed on the server and are not stored. Reading aloud (text-to-speech) is not available in the online version."
+        "- Live camera pictures are analysed on the server and are not stored. Reading aloud uses your own browser's voice, so the sound depends on your device."
     )
 ui.footer()
